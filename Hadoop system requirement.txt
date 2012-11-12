@@ -1,4 +1,4 @@
-HADOOP源码研究小组
+HADOOP源码研究小组(QQ群:170940800)
 
 主题：hadoop系统需求
 
@@ -37,3 +37,8 @@ Email：bsspirit@gmail.com
 
 7. hadoop使用监控
 
+
+========================
+加入我们：
+QQ群:170940800
+http://dataguru.cn
