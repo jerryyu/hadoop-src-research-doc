@@ -33,3 +33,7 @@ Email：bsspirit@gmail.com
 
 5. 数据增长: 10G/天
 
+6. web管理界面
+
+7. hadoop使用监控
+
