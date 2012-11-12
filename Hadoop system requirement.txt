@@ -1,0 +1,35 @@
+HADOOP源码研究小组
+
+主题：hadoop系统需求
+
+作者：张丹(Conan_Z)
+Email：bsspirit@gmail.com
+日期：2012-11-12
+版本: v1
+
+
+1. Hadoop存储需求：
+1) 结构化数据，来源RDBMS(MySQL,Oracle,PostgresSQL)
+2) 半结构化数据，json,xml
+3) 日志文件，来源Log
+4) 图片文件，png,jpg,gif...
+5) 其他类型小文件，(<10mb)
+6) 其他类型中文件，(10-100mb)
+7) 其他类型大文件，(>100mb)
+
+2. 数据导入需求：
+1) 文件，csv,json/xml
+2) Http/Ftp，
+3) DB，MySQL,Oracle,PostgresSQL
+
+3. 数据导出需求：
+1) 文件， csv, json/xml
+2) Http/Ftp，
+3) DB，MySQL,Oracle,PostgresSQL
+
+4. MapReduce接口需求：
+1) map()
+2) reduece()
+
+5. 数据增长: 10G/天
+
